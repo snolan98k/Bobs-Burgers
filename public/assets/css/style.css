@@ -1,0 +1,43 @@
+body{
+	background: url('../img/Bu\'gha.jpg') no-repeat;
+	background-size: cover; 
+	background-position: 0 -200px;
+}
+html, body{
+	height: 100%;
+	min-height: 100%;
+	overflow: auto;
+}
+h1{
+	font-size: 52px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+	font-size: 20px;
+    margin-bottom: 10px;
+	font-weight: bold;
+	font-style: oblique;
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+	text-align: center;
+	max-width: 900px;
+    background-color: rgba(245, 246, 206, 0.9);
+	min-height: 50%;
+	padding: 30px;
+	margin-top: 75px;	
+}
+input.input{
+	width: 30%;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+.burger-item{
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.column{
+	text-align: left;
+}
